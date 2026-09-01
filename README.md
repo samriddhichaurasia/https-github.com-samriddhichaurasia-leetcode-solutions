@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [2351-first-letter-to-appear-twice](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
@@ -79,10 +81,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0367-valid-perfect-square) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
