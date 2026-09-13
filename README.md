@@ -142,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
