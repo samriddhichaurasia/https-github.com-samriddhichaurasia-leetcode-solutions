@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
