@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
