@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2409-count-days-spent-together](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1678-goal-parser-interpretation](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2351-first-letter-to-appear-twice](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samriddhichaurasia/https-github.com-samriddhichaurasia-leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
